@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Unterrainer Informatik OG Team</authors>
+    <owners>Public Domain</owners>
+    <licenseUrl>http://unlicense.org</licenseUrl>
+    <projectUrl>https://github.com/UnterrainerInformatik/collisiongrid</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A small debugging helper-class for developers that helps tidying your timing-output.</description>
+    <summary>
+      Just start the watch using .Start('optional string'), take a split-time using .Split('optional string'), stop and restart or reset it.
+      Every interaction triggers a console output. You may configure it to write to any TextWriter, user your own format-strings and disable the output completely using .IsActive=false.
+    </summary>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <language>en-US</language>
+    <tags>debugging debug tools stopwatch clock output</tags>
+  </metadata>
+</package>

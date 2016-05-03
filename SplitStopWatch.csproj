@@ -44,7 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="LICENSE" />
+    <None Include="nuget_pack.bat" />
+    <None Include="nuget_push.bat" />
     <None Include="readme.md" />
+    <None Include="SplitStopWatch.nuspec">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
