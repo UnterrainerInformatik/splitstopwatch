@@ -33,6 +33,7 @@
 
 ```
 [![NuGet](https://img.shields.io/nuget/v/splitstopwatch.svg?maxAge=2592000)](https://www.nuget.org/packages/SplitStopWatch/)
+ [![license](https://img.shields.io/github/license/unterrainerinformatik/splitstopwatch.svg?maxAge=2592000)](http://unlicense.org)
 
 # General  
 
