@@ -32,7 +32,7 @@
  ***************************************************************************/
 
 ```
-[![NuGet](https://img.shields.io/nuget/v/Nuget.Core.svg?maxAge=2592000)](https://www.nuget.org/packages/SplitStopWatch/)
+[![NuGet](https://img.shields.io/nuget/v/splitstopwatch.svg?maxAge=2592000)](https://www.nuget.org/packages/SplitStopWatch/)
 
 # General  
 
