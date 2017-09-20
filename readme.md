@@ -11,7 +11,7 @@ In order to get help with basic GIT commands you may try [the GIT cheat-sheet][c
 This repository located on our  [homepage][homepage] is private since this is the master- and release-branch. You may clone it, but it will be read-only.  
 If you want to contribute to our repository (push, open pull requests), please use the copy on github located here: [the public github repository][github]  
 
-# SplitStopWatch  
+# ![Icon](https://github.com/UnterrainerInformatik/splitstopwatch/raw/master/icon.png)SplitStopWatch
 
 This class implements a stopWatch.  
 
@@ -24,7 +24,7 @@ All the write-operations are performed as a printLine-call, so you don't need to
 It has a property 'isActive' that defaults to true. When this is set to false all calls to this class are aborted within a single if-statement in the called method. This is a convenience function so that you may leave your logging-code in the production code.  
 
 #### Example  
-    
+
 ```csharp
 SplitStopWatch ssw = new SplitStopWatch();
 ssw.start("started.");
