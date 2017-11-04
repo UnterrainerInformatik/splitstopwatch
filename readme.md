@@ -23,6 +23,11 @@ All the write-operations are performed as a printLine-call, so you don't need to
 
 It has a property 'isActive' that defaults to true. When this is set to false all calls to this class are aborted within a single if-statement in the called method. This is a convenience function so that you may leave your logging-code in the production code.  
 
+> **If you like this repo, please don't forget to star it.**
+> **Thank you.**
+
+
+
 #### Example  
 
 ```csharp
