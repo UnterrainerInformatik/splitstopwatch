@@ -13,7 +13,7 @@ If you want to contribute to our repository (push, open pull requests), please u
 
 # ![Icon](https://github.com/UnterrainerInformatik/splitstopwatch/raw/master/icon.png)SplitStopWatch
 
-This class implements a stopWatch.  
+This PCL implements a stopWatch.  
 
 Additionally to the normal stopWatch-functionality it may be used to debug out split-times as well. It measures the split-times and keeps track of the overall times in a variable.  
 Don't be afraid to stop the watch. Stopping doesn't mean you loose any value whatsoever. Think of it as a real-life stopWatch where you may press the start-button at any time after previously pressing the stop-button.  
